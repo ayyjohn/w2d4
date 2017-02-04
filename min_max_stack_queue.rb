@@ -50,5 +50,4 @@ class MinMaxStackQueue
     @out_stack.push(@in_stack.pop) until @in_stack.empty?
   end
 
-
 end
